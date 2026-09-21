@@ -5,4 +5,3 @@ FROM tecnicos A
 		GROUP BY A.id, A.nome, A.ativo
 		ORDER BY total_chamados DESC;
 	
-
